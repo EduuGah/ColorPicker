@@ -1,8 +1,12 @@
 function Dashboard() {
   return (
       <main>
-        <h1>ColorPicker</h1>
-        <p>Escolha uma cor e visualize suas informações.</p>
+        <div className="container">
+
+          <h1>ColorPicker</h1>
+          <p>Escolha uma cor e visualize suas informações.</p>
+
+        </div>
       </main>
   );
 }
